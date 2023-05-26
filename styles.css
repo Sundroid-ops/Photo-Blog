@@ -26,185 +26,34 @@ a:hover{
     font-weight: bold;
 }
 
-main{
+main , #c{
     margin-top: 30px;
     margin-left: 20px;
 }
 
-main #c1 #c1r1{
+main #c #r{
     display: inline-block;
     width: 350px;
-    height: 460px;
+    height: 447px;
     border: 2px double azure;
+    margin-right: 20px;
 }
 
-#c1r1 #pic1{
+#r #pic{
     margin: 3px 3px -7.9px;
     width: 342px;
     height: 410px;
     border: 1px solid azure;
 }
 
-#c1r1 #II{
+#r #II{
     margin-bottom : 0px;
 }
 
-#c1r1 p{
+#r p{
     border: 1px solid azure;
     width: 340px;
     padding-left: 7px;
     margin-top: 1px;
     padding-bottom: 1px;
-}
-
-main #c1r2{
-    display: inline-block;
-    width: 350px;
-    height: 460px;
-    border: 2px double azure;
-    margin-left: 40px;
-    transform: translateY(-6.5px);
-}
-
-#c1r2 #pic2{
-    margin: 3px 3px -7.9px;
-    width: 342px;
-    height: 410px;
-    border: 1px solid azure;
-}
-
-#c1r2 #III{
-    margin-bottom : 0px;
-}
-
-#c1r2 p{
-    height: 25px;
-    border: 1px solid azure;
-    width: 340px;
-    padding-bottom: 2px;
-    padding-left: 7px;
-    margin-top: 1px;
-    padding-top: 10px;
-}
-
-main #c1r3{
-    display: inline-block;
-    width: 350px;
-    height: 460px;
-    border: 2px double azure;
-    margin-left: 40px;
-    transform: translateY(-6.5px);
-}
-
-#c1r3 #pic3{
-    margin: 3px 3px -7.9px;
-    width: 342px;
-    height: 410px;
-    border: 1px solid azure;
-}
-
-#c1r3 #III{
-    margin-bottom : 0px;
-}
-
-#c1r3 p{
-    height: 25px;
-    border: 1px solid azure;
-    width: 340px;
-    padding-bottom: 2px;
-    padding-left: 7px;
-    margin-top: 1px;
-    padding-top: 10px;
-}
-
-main #c2{
-    margin-top:20px;
-}
-
-main #c2r1{
-    display: inline-block;
-    width: 350px;
-    height: 460px;
-    border: 2px double azure;
-}
-
-#c2r1 #pic4{
-    margin: 3px 3px -7.9px;
-    width: 342px;
-    height: 410px;
-    border: 1px solid azure;
-}
-
-#c2r1 #IV{
-    margin-bottom : 0px;
-}
-
-#c2r1 p{
-    height: 25px;
-    border: 1px solid azure;
-    width: 340px;
-    padding-bottom: 2px;
-    padding-left: 7px;
-    margin-top: 1px;
-    padding-top: 10px;
-}
-
-main #c2r2{
-    display: inline-block;
-    width: 350px;
-    height: 460px;
-    border: 2px double azure;
-    margin-left: 40px;
-    transform: translateY(3px);
-}
-
-#c2r2 #pic5{
-    margin: 3px 3px -7.9px;
-    width: 342px;
-    height: 410px;
-    border: 1px solid azure;
-}
-
-#c2r2 #V{
-    margin-bottom : 0px;
-}
-
-#c2r2 p{
-    height: 25px;
-    border: 1px solid azure;
-    width: 340px;
-    padding-bottom: 2px;
-    padding-left: 7px;
-    margin-top: 1px;
-    padding-top: 10px;
-}
-
-main #c2r3{
-    display: inline-block;
-    width: 350px;
-    height: 460px;
-    border: 2px double azure;
-    margin-left: 40px;
-    transform: translateY(1px);
-}
-
-#c2r3 #pic6{
-    margin: 3px 3px -7.9px;
-    width: 342px;
-    height: 410px;
-    border: 1px solid azure;
-}
-
-#c2r3 #VI{
-    margin-bottom : 0px;
-}
-
-#c2r3 p{
-    height: 25px;
-    border: 1px solid azure;
-    width: 340px;
-    padding-bottom: 2px;
-    padding-left: 7px;
-    margin-top: 1px;
-    padding-top: 10px;
 }
